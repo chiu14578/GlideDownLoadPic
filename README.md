@@ -1,0 +1,2 @@
+# GlideDownLoadPic
+Android使用Glide框架下载图片并保存到本地
